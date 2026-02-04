@@ -1,5 +1,9 @@
 # Changelog
 
+## 17.3.5 (2025-02-04)
+
+* [bitnami/thanos] Add compactor.deploymentAnnotations setting.
+
 ## 17.3.4 (2025-12-20)
 
 * [bitnami/thanos] Fix sharded storegateway endpoints not respecting dnsDiscovery setting ([#36418](https://github.com/bitnami/charts/pull/36418))
