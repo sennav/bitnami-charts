@@ -1,6 +1,6 @@
 # Changelog
 
-## 17.3.5 (2026-02-04)
+## 17.4.0 (2026-02-06)
 
 * [bitnami/thanos]: Adds compactor.deploymentAnnotation to thanos compactor options ([#36453](https://github.com/bitnami/charts/pull/36453))
 
